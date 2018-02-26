@@ -1,0 +1,410 @@
+[
+	{
+	  "Model Name": "i7-8700K",
+	  "Cores": "6",
+	  "Threads": "12",
+	  "Hyper Thread support": "y",
+	  "All Cores Frequency": "4.3",
+	  "Code Name": "Coffeelake"
+    },
+    {
+	  "Model Name": "i7-8700",
+	  "Cores": "6",
+	  "Threads": "12",
+	  "Hyper Thread support": "y",
+	  "All Cores Frequency": "4.3",
+	  "Code Name": "Coffeelake"
+    },
+    {
+	  "Model Name": "i5-8600K",
+	  "Cores": "6",
+	  "Threads": "6",
+	  "Hyper Thread support": "n",
+	  "All Cores Frequency": "4.1",
+	  "Code Name": "Coffeelake"
+    },
+    {
+	  "Model Name": "i5-8400",
+	  "Cores": "6",
+	  "Threads": "6",
+	  "Hyper Thread support": "n",
+	  "All Cores Frequency": "3.8",
+	  "Code Name": "Coffeelake"
+    },
+    {
+	  "Model Name": "i3-8350K",
+	  "Cores": "4",
+	  "Threads": "4",
+	  "Hyper Thread support": "n",
+	  "All Cores Frequency": "4",
+	  "Code Name": "Coffeelake"
+    },
+    {
+	  "Model Name": "i3-8100",
+	  "Cores": "4",
+	  "Threads": "4",
+	  "Hyper Thread support": "n",
+	  "All Cores Frequency": "3.6",
+	  "Code Name": "Coffeelake"
+    },
+    {
+	  "Model Name": "i9-7980XE",
+	  "Cores": "18",
+	  "Threads": "36",
+	  "Hyper Thread support": "y",
+	  "All Cores Frequency": "3.4",
+	  "Code Name": "Kabylake-X"
+    },
+    {
+	  "Model Name": "i9-7960X",
+	  "Cores": "16",
+	  "Threads": "32",
+	  "Hyper Thread support": "y",
+	  "All Cores Frequency": "3.6",
+	  "Code Name": "Kabylake-X"
+    },
+    {
+	  "Model Name": "i9-7940X",
+	  "Cores": "14",
+	  "Threads": "28",
+	  "Hyper Thread support": "y",
+	  "All Cores Frequency": "3.8",
+	  "Code Name": "Kabylake-X"
+    },
+    {
+	  "Model Name": "i9-7920X",
+	  "Cores": "12",
+	  "Threads": "24",
+	  "Hyper Thread support": "y",
+	  "All Cores Frequency": "4",
+	  "Code Name": "Kabylake-X"
+    },
+    {
+	  "Model Name": "i9-7900X",
+	  "Cores": "10",
+	  "Threads": "20",
+	  "Hyper Thread support": "y",
+	  "All Cores Frequency": "4",
+	  "Code Name": "Kabylake-X"
+    },
+    {
+	  "Model Name": "i7-7820X",
+	  "Cores": "8",
+	  "Threads": "16",
+	  "Hyper Thread support": "y",
+	  "All Cores Frequency": "4",
+	  "Code Name": "Kabylake-X"
+    },
+    {
+	  "Model Name": "i7-7800X",
+	  "Cores": "6",
+	  "Threads": "12",
+	  "Hyper Thread support": "y",
+	  "All Cores Frequency": "4",
+	  "Code Name": "Kabylake-X"
+    },
+    {
+	  "Model Name": "i7-7740X",
+	  "Cores": "4",
+	  "Threads": "8",
+	  "Hyper Thread support": "y",
+	  "All Cores Frequency": "4.5",
+	  "Code Name": "Kabylake-X"
+    },
+    {
+	  "Model Name": "i5-7640X",
+	  "Cores": "4",
+	  "Threads": "4",
+	  "Hyper Thread support": "n",
+	  "All Cores Frequency": "4",
+	  "Code Name": "Kabylake-X"
+    },
+	{
+	  "Model Name": "i7-7700K",
+	  "Cores": "4",
+	  "Threads": "8",
+	  "Hyper Thread support": "y",
+	  "All Cores Frequency": "4.4",
+	  "Code Name": "Kabylake"
+    },
+	{
+	  "Model Name": "i7-7700",
+	  "Cores": "4",
+	  "Threads": "8",
+	  "Hyper Thread support": "y",
+	  "All Cores Frequency": "4",
+	  "Code Name": "Kabylake"
+    },
+	{
+	  "Model Name": "i7-7700T",
+	  "Cores": "4",
+	  "Threads": "8",
+	  "Hyper Thread support": "y",
+	  "All Cores Frequency": "3.6",
+	  "Code Name": "Kabylake"
+    },
+	{
+	  "Model Name": "i5-7600K",
+	  "Cores": "4",
+	  "Threads": "4",
+	  "Hyper Thread support": "n",
+	  "All Cores Frequency": "4",
+	  "Code Name": "Kabylake"
+    },
+	{
+	  "Model Name": "i5-7600",
+	  "Cores": "4",
+	  "Threads": "4",
+	  "Hyper Thread support": "n",
+	  "All Cores Frequency": "3.9",
+	  "Code Name": "Kabylake"
+    },
+	{
+	  "Model Name": "i5-7600T",
+	  "Cores": "4",
+	  "Threads": "4",
+	  "Hyper Thread support": "n",
+	  "All Cores Frequency": "3.5",
+	  "Code Name": "Kabylake"
+    },
+	{
+	  "Model Name": "i5-7500",
+	  "Cores": "4",
+	  "Threads": "4",
+	  "Hyper Thread support": "n",
+	  "All Cores Frequency": "3.6",
+	  "Code Name": "Kabylake"
+    },
+	{
+	  "Model Name": "i5-7500T",
+	  "Cores": "4",
+	  "Threads": "4",
+	  "Hyper Thread support": "n",
+	  "All Cores Frequency": "3.1",
+	  "Code Name": "Kabylake"
+    },
+	{
+	  "Model Name": "i5-7400",
+	  "Cores": "4",
+	  "Threads": "4",
+	  "Hyper Thread support": "n",
+	  "All Cores Frequency": "3.3",
+	  "Code Name": "Kabylake"
+    },
+	{
+	  "Model Name": "i5-7400T",
+	  "Cores": "4",
+	  "Threads": "4",
+	  "Hyper Thread support": "n",
+	  "All Cores Frequency": "2.8",
+	  "Code Name": "Kabylake"
+    },
+    {
+	  "Model Name": "i3-7350K",
+	  "Cores": "2",
+	  "Threads": "4",
+	  "Hyper Thread support": "y",
+	  "All Cores Frequency": "4.2",
+	  "Code Name": "Kabylake"
+    },
+    {
+	  "Model Name": "i3-7320",
+	  "Cores": "2",
+	  "Threads": "4",
+	  "Hyper Thread support": "y",
+	  "All Cores Frequency": "4.1",
+	  "Code Name": "Kabylake"
+    },
+    {
+	  "Model Name": "i3-7300",
+	  "Cores": "2",
+	  "Threads": "4",
+	  "Hyper Thread support": "y",
+	  "All Cores Frequency": "4",
+	  "Code Name": "Kabylake"
+    },
+    {
+	  "Model Name": "i3-7100",
+	  "Cores": "2",
+	  "Threads": "4",
+	  "Hyper Thread support": "y",
+	  "All Cores Frequency": "3.9",
+	  "Code Name": "Kabylake"
+    },
+    {
+	  "Model Name": "i7-6700K",
+	  "Cores": "4",
+	  "Threads": "8",
+	  "Hyper Thread support": "y",
+	  "All Cores Frequency": "4",
+	  "Code Name": "Skylake"
+    },
+    {
+	  "Model Name": "i7-6700",
+	  "Cores": "4",
+	  "Threads": "8",
+	  "Hyper Thread support": "y",
+	  "All Cores Frequency": "3.7",
+	  "Code Name": "Skylake"
+    },
+    {
+	  "Model Name": "i7-6700T",
+	  "Cores": "4",
+	  "Threads": "8",
+	  "Hyper Thread support": "y",
+	  "All Cores Frequency": "3.4",
+	  "Code Name": "Skylake"
+    },
+    {
+	  "Model Name": "i7-6700TE",
+	  "Cores": "4",
+	  "Threads": "8",
+	  "Hyper Thread support": "y",
+	  "All Cores Frequency": "3.4",
+	  "Code Name": "Skylake"
+    },
+    {
+	  "Model Name": "i5-6600K",
+	  "Cores": "4",
+	  "Threads": "4",
+	  "Hyper Thread support": "n",
+	  "All Cores Frequency": "3.6",
+	  "Code Name": "Skylake"
+    },
+    {
+	  "Model Name": "i5-6600",
+	  "Cores": "4",
+	  "Threads": "4",
+	  "Hyper Thread support": "n",
+	  "All Cores Frequency": "3.6",
+	  "Code Name": "Skylake"
+    },
+    {
+	  "Model Name": "i5-6600T",
+	  "Cores": "4",
+	  "Threads": "4",
+	  "Hyper Thread support": "n",
+	  "All Cores Frequency": "3.1",
+	  "Code Name": "Skylake"
+    },
+    {
+	  "Model Name": "i5-6500",
+	  "Cores": "4",
+	  "Threads": "4",
+	  "Hyper Thread support": "n",
+	  "All Cores Frequency": "3.3",
+	  "Code Name": "Skylake"
+    },
+    {
+	  "Model Name": "i5-6500T",
+	  "Cores": "4",
+	  "Threads": "4",
+	  "Hyper Thread support": "n",
+	  "All Cores Frequency": "2.8",
+	  "Code Name": "Skylake"
+    },
+    {
+	  "Model Name": "i5-6500TE",
+	  "Cores": "4",
+	  "Threads": "4",
+	  "Hyper Thread support": "n",
+	  "All Cores Frequency": "3.3",
+	  "Code Name": "Skylake"
+    },
+    {
+	  "Model Name": "i5-6402P",
+	  "Cores": "4",
+	  "Threads": "4",
+	  "Hyper Thread support": "n",
+	  "All Cores Frequency": "3.2",
+	  "Code Name": "Skylake"
+    },
+    {
+	  "Model Name": "i5-6400",
+	  "Cores": "4",
+	  "Threads": "4",
+	  "Hyper Thread support": "n",
+	  "All Cores Frequency": "3.1",
+	  "Code Name": "Skylake"
+    },
+    {
+	  "Model Name": "i5-6400T",
+	  "Cores": "4",
+	  "Threads": "4",
+	  "Hyper Thread support": "n",
+	  "All Cores Frequency": "2.5",
+	  "Code Name": "Skylake"
+    },
+    {
+	  "Model Name": "i7-6785R",
+	  "Cores": "4",
+	  "Threads": "8",
+	  "Hyper Thread support": "y",
+	  "All Cores Frequency": "3.9",
+	  "Code Name": "Skylake"
+    },
+    {
+	  "Model Name": "i5-6685R",
+	  "Cores": "4",
+	  "Threads": "4",
+	  "Hyper Thread support": "n",
+	  "All Cores Frequency": "3.8",
+	  "Code Name": "Skylake"
+    },
+    {
+	  "Model Name": "i5-6585R",
+	  "Cores": "4",
+	  "Threads": "4",
+	  "Hyper Thread support": "n",
+	  "All Cores Frequency": "3.6",
+	  "Code Name": "Skylake"
+    },
+    {
+	  "Model Name": "i3-6320",
+	  "Cores": "2",
+	  "Threads": "4",
+	  "Hyper Thread support": "y",
+	  "All Cores Frequency": "3.9",
+	  "Code Name": "Skylake"
+    },
+    {
+	  "Model Name": "i3-6300",
+	  "Cores": "2",
+	  "Threads": "4",
+	  "Hyper Thread support": "y",
+	  "All Cores Frequency": "3.8",
+	  "Code Name": "Skylake"
+    },
+    {
+	  "Model Name": "i3-6100",
+	  "Cores": "2",
+	  "Threads": "4",
+	  "Hyper Thread support": "y",
+	  "All Cores Frequency": "3.7",
+	  "Code Name": "Skylake"
+    },
+    {
+	  "Model Name": "i3-6098P",
+	  "Cores": "2",
+	  "Threads": "4",
+	  "Hyper Thread support": "y",
+	  "All Cores Frequency": "3.6",
+	  "Code Name": "Skylake"
+    },
+    {
+	  "Model Name": "i3-6300T",
+	  "Cores": "2",
+	  "Threads": "4",
+	  "Hyper Thread support": "y",
+	  "All Cores Frequency": "3.3",
+	  "Code Name": "Skylake"
+    },
+    {
+	  "Model Name": "i3-6100T",
+	  "Cores": "2",
+	  "Threads": "4",
+	  "Hyper Thread support": "y",
+	  "All Cores Frequency": "3.2",
+	  "Code Name": "Skylake"
+    }
+]
