@@ -1,5 +1,29 @@
 [
 	{
+	  "Model Name": "i9-9900K",
+	  "Cores": "8",
+	  "Threads": "16",
+	  "Hyper Thread support": "y",
+	  "All Cores Frequency": "4.7",
+	  "Code Name": "Coffeelake"
+    },
+	{
+	  "Model Name": "i7-9700K",
+	  "Cores": "8",
+	  "Threads": "8",
+	  "Hyper Thread support": "n",
+	  "All Cores Frequency": "4.6",
+	  "Code Name": "Coffeelake"
+    },
+	{
+	  "Model Name": "i5-9600K",
+	  "Cores": "6",
+	  "Threads": "6",
+	  "Hyper Thread support": "n",
+	  "All Cores Frequency": "4.3",
+	  "Code Name": "Coffeelake"
+    },
+	{
 	  "Model Name": "i7-8700K",
 	  "Cores": "6",
 	  "Threads": "12",
@@ -21,6 +45,22 @@
 	  "Threads": "6",
 	  "Hyper Thread support": "n",
 	  "All Cores Frequency": "4.1",
+	  "Code Name": "Coffeelake"
+    },
+    {
+	  "Model Name": "i5-8600",
+	  "Cores": "6",
+	  "Threads": "6",
+	  "Hyper Thread support": "n",
+	  "All Cores Frequency": "4.1",
+	  "Code Name": "Coffeelake"
+    },
+    {
+	  "Model Name": "i5-8500",
+	  "Cores": "6",
+	  "Threads": "6",
+	  "Hyper Thread support": "n",
+	  "All Cores Frequency": "3.9",
 	  "Code Name": "Coffeelake"
     },
     {
